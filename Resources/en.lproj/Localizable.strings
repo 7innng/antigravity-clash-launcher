@@ -1,0 +1,13 @@
+"install.title" = "Antigravity wasn’t found";
+"install.detail" = "Put the official Antigravity desktop app in Applications (or ~/Applications), then open this launcher again.";
+"port.title" = "Local HTTP proxy";
+"port.prompt" = "Enter the HTTP or mixed port from your proxy client. The launcher connects to 127.0.0.1.";
+"port.unreachable" = "Nothing is listening on 127.0.0.1:%@. Start your proxy client and enter its HTTP or mixed port.";
+"port.field" = "Proxy port";
+"port.save" = "Use Port";
+"port.invalid" = "Enter a port number from 1 to 65535.";
+"port.saved.title" = "Proxy port saved";
+"port.saved.detail" = "Quit Antigravity with ⌘Q, then open this launcher to use the new port.";
+"launch.failed" = "Antigravity couldn’t start";
+"cancel" = "Cancel";
+"ok" = "OK";

@@ -1,0 +1,13 @@
+"install.title" = "找不到 Antigravity";
+"install.detail" = "请将官方 Antigravity 桌面版放到「应用程序」或 ~/Applications，再打开这个启动器。";
+"port.title" = "本地 HTTP 代理";
+"port.prompt" = "请输入代理客户端的 HTTP 端口或混合端口。启动器会连接 127.0.0.1。";
+"port.unreachable" = "127.0.0.1:%@ 没有监听。请打开代理客户端，并填写它的 HTTP 端口或混合端口。";
+"port.field" = "代理端口";
+"port.save" = "使用此端口";
+"port.invalid" = "请输入 1 到 65535 之间的端口号。";
+"port.saved.title" = "代理端口已保存";
+"port.saved.detail" = "按 ⌘Q 退出 Antigravity，再打开启动器即可使用新端口。";
+"launch.failed" = "Antigravity 未能启动";
+"cancel" = "取消";
+"ok" = "好";
